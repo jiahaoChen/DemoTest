@@ -1,1 +1,3 @@
-add b.c file
+hello world
+
+add b.c
